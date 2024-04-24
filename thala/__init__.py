@@ -1,4 +1,3 @@
-
 """
 THALA: Thermodynamics Helper and Analysis Library for Applications 
 
@@ -20,6 +19,8 @@ Features:
 For additional details and examples, refer to the README documentation.
 """
 
-print('Thanks for using THALA ! - Thermodynamics Helper and Analysis Library for Applications')
+print(
+    "Thanks for using THALA ! - Thermodynamics Helper and Analysis Library for Applications"
+)
 
 from thala import *
